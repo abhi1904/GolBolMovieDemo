@@ -16,8 +16,8 @@
 
 package data;
 
-import com.erosnow.services.model.Movie;
-import com.erosnow.services.model.SearchMovies;
+import com.moviedetail.services.model.Movie;
+import com.moviedetail.services.model.SearchMovies;
 
 import java.util.ArrayList;
 import java.util.List;

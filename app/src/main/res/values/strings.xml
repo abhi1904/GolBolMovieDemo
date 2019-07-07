@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ErosnowDemoApp</string>
+    <string name="app_name">MovieDemoApp</string>
     <string name="tab_text_1">Top Rated Movies</string>
     <string name="tab_text_2">Favorite Movies</string>
 </resources>
